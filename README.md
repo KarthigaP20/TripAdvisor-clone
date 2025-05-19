@@ -27,7 +27,6 @@ To recreate the TripAdvisor India homepage using only HTML and CSS, focusing on 
 ## 🌐 Live Demo
 
 [👉 Click to view the live project](https://karthigap20.github.io/TripAdvisor-clone/)  
-> _Replace this with your GitHub Pages or Netlify link_
 
 
 ## 📸 Screenshots
