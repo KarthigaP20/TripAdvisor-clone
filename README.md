@@ -35,19 +35,19 @@ To recreate the TripAdvisor India homepage using only HTML and CSS, focusing on 
 > Screenshots of different sections of the website:
 
 ### 1. Hero Section  
-![Hero Section](./Screenshots/screenshot1.png)
+![Hero Section](./Screenshots/Screenshot1.png)
 
 ### 2. Navbar & Search  
-![Navbar](./Screenshots/screenshot2.png)
+![Navbar](./Screenshots/Screenshot2.png)
 
 ### 3. Tour Carousel  
-![Tour Carousel](./Screenshots/screenshot3.png)
+![Tour Carousel](./Screenshots/Screenshot3.png)
 
 ### 4. Responsive View  
-![Mobile View](./Screenshots/screenshot5.png)
+![Mobile View](./Screenshots/Screenshot5.png)
 
 ### 5. Footer Section  
-![Footer](./Screenshots/screenshot8.png)
+![Footer](./Screenshots/Screenshot8.png)
 
 
 ## 👩‍💻 Author
