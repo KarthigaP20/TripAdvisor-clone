@@ -44,7 +44,7 @@ To recreate the TripAdvisor India homepage using only HTML and CSS, focusing on 
 ![Tour Carousel](./Screenshots/Screenshot3.png)
 
 ### 4. Responsive View  
-![Mobile View](./Screenshot5.png)
+![Mobile View](/Screenshot5.png)
 
 ### 5. Footer Section  
 ![Footer](./Screenshots/Screenshot8.png)
