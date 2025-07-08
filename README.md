@@ -73,9 +73,7 @@ TripAdvisor-clone/
 │ └── Screenshot8.png
 └── README.md
 
-Live Link:
 
-[TripAdvisor](https://karthigap20.github.io/TripAdvisor-clone/)
 
 
 
